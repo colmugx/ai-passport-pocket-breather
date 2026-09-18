@@ -2,6 +2,8 @@
 
 Pocket Breather is a tiny offline breathing coach built from scratch for AI Passport. It uses only the public `colmugx/ai-passport@0.0.6` application API: no template code, assets, Host ABI, or local SDK checkout.
 
+![screenshot](screenshot.png)
+
 ## Controls
 
 - **UP**: next breathing pattern
